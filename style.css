@@ -12,3 +12,8 @@ h1{
     color:rgb(31, 129, 31);
     font-family: verdana;
 }
+
+a{
+    color: rgb(73, 73, 73);
+    text-align: center;
+}
