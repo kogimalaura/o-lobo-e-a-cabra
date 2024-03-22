@@ -1,12 +1,9 @@
-body{
+body {
 
     text-align: center;
     font-size: 23px;
-    background-color: #d3c789
-    font-family: Arial, Helvetica, sans-serif;
-    border:white solid 2px;
-    color: #1E2601
-    border: solid;#1E2601
-
-
+    background-color: #d3c789;
+    font-family: Arial;
+    border: rgb(52, 184, 118) solid 2px;
+    color: #1E2601;
 }
